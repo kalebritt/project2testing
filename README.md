@@ -8,7 +8,6 @@
 - [User Story](#user-story)
 - [Features](#features)
 - [Future Enhancements](#future-enhancements)
-- [Acceptance Criteria](#acceptance-criteria)
 - [Website Preview](#website-preview)
 - [Technologies](#technologies)
 - [Collaborators](#collaborators)
@@ -25,8 +24,6 @@ As a person who exists on the planet Earth, I love a good joke.  Especially joke
 # Features 
 
 # Future Enhancements
-
-# Acceptance Criteria
 
 # Website Preview 
 
