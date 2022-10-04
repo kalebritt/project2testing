@@ -20,7 +20,7 @@
 # Overview
 ### Description
 ```
-[Hi, Blog, I'm Dad](https://hi-blog-im-dad.herokuapp.com/login) 
+Hi, Blog, I'm Dad is an app that allows a user to create a new profile, sign-in to their existing profile, view jokes, and save/create their own jokes to their profile.
 ```
 
 
