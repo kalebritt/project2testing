@@ -8,8 +8,8 @@
 - [Features](#features)
 - [Future Enhancements](#future-enhancements)
 - [Website Preview](#website-preview)
-- [Technologies](#technologies)
-- [Collaborators](#collaborators)
+- [Technologies:computer:](#technologiescomputer)
+- [Collaborators:muscle:](#collaboratorsmuscle)
 - [Resources](#resources)
 
 # Description
@@ -26,9 +26,9 @@ As a person who exists on the planet Earth, I love a good joke.  Especially joke
 
 # Website Preview 
 
-# Technologies
+# Technologies:computer:
 
-# Collaborators
+# Collaborators:muscle:
 -[Lorena Morales](https://github.com/Lorena-RM)
 <br>
 -[Lexi Miller](https://github.com/Leximiller128)
