@@ -1,9 +1,9 @@
 # [Hi Blog I'm Dad :rocket:](https://hi-blog-im-dad.herokuapp.com/login)
 
-## Index
+# Index
 
 - [Hi Blog I'm Dad :rocket:](#hi-blog-im-dad-rocket)
-  - [Index](#index)
+- [Index](#index)
 - [Description](#description)
 - [User Story](#user-story)
 - [Features](#features)
