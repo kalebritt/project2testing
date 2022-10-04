@@ -1,4 +1,4 @@
-# Dad-Jokes-Blog [Hi Blog i'm Dad](https://hi-blog-im-dad.herokuapp.com/login)
+[Hi Blog i'm Dad](https://hi-blog-im-dad.herokuapp.com/login)
 
 ## Index
 
