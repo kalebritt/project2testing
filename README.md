@@ -2,8 +2,6 @@
 
 ## Index
 
-1. [Overview](#overview)
-
 - [Dad-Jokes-Blog [Hi Blog i'm Dad]](#dad-jokes-blog-hi-blog-im-dad)
   - [Index](#index)
 - [Overview](#overview)
