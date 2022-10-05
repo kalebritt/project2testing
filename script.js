@@ -1,7 +1,11 @@
 // const dayjs = require("dayjs");
-let now = dayjs();
-console.log('hello');
-console.log(now.format("dddd, MMMM D YYYY"));
+// console.log("hello");
+// console.log(now.format("dddd, MMMM D YYYY"));
+
+const now = dayjs();
+let date = now.format("dddd, MMMM D, YYYY");
+$("#date").text(date);
+console.log(date);
 
 // let d = new Date(2022, 8, 18);
 // let day = dayjs(d);
