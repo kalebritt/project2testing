@@ -1,0 +1,23 @@
+{
+  "name": "project2testing",
+  "version": "1.0.0",
+  "description": "- [Index](#index)\r - [Description](#description)\r - [User Story](#user-story)\r - [Features](#features)\r - [Future Enhancements](#future-enhancements)\r - [Website Preview](#website-preview)\r - [Technologies:computer:](#technologiescomputer)\r - [Collaborators:muscle:](#collaboratorsmuscle)\r - [Resources](#resources)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalebritt/project2testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalebritt/project2testing/issues"
+  },
+  "homepage": "https://github.com/kalebritt/project2testing#readme",
+  "dependencies": {
+    "require": "^2.4.20",
+    "dayjs": "^1.11.5"
+  }
+}
