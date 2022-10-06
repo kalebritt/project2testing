@@ -25,6 +25,8 @@ As a person who exists on the planet Earth, I love a good joke.  Especially joke
 # Future Enhancements
 
 # Website Preview 
+![Screenshot of Profile Page](/assets/Screen%20Shot%20Login.png)
+![Screenshot of Login Page](assets/Screen%20Shot%20Login.png)
 
 # Technologies:computer:
 
